@@ -1,0 +1,101 @@
+body{
+    background: #333;
+}
+
+.body_text{
+    width: 1000px;
+    height: 1000px;
+    margin: 0 auto;
+}
+
+.title{
+    text-align: center;
+    color: #fffdd0;
+}
+
+.email_link{
+    display:block;
+    text-align:center;
+    color: #fffdd0;
+}
+
+.discord{
+    text-align: center;
+    color: #fffdd0;
+}
+
+.img{
+    height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.introduction{
+    text-align: center;
+    color: #fffdd0;
+}
+
+.introduction_p{
+    text-align: center;
+    color: #fffdd0;
+}
+
+.hope{
+    text-align: center;
+    color: #fffdd0;
+}
+
+.hope_l{
+    list-style-position: inside;
+    text-align: center;
+    color: #fffdd0;
+}
+
+.hobby{
+    text-align: center;
+    color: #fffdd0;
+}
+
+.hobby_l{
+    text-align: center;
+    color: #fffdd0;
+}
+
+.fact{
+    text-align: center;
+    color: #fffdd0;
+}
+
+.fact_p{
+    text-align: center;
+    color: #fffdd0;
+}
+
+.innovation_section{
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+}
+
+.innovation{
+    text-align: center;
+    color: #fffdd0;
+}
+
+.innovation_l{
+    text-align: left;
+    color: #fffdd0;
+}
+
+.first_url{
+    color: #fffdd0;
+}
+
+.sec_url{
+    color: #fffdd0;
+}
+
+.third_url{
+    color: #fffdd0;
+}
